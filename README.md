@@ -16,6 +16,7 @@ An interactive Power BI dashboard designed to analyze sales, profit, and custome
  Electronics is the best-performing product category, contributing **38.58% of total sales** and **38.86% of total profit.** This indicates strong customer demand and healthy profitability, making Electronics the primary revenue driver for the business.
 
 
+
 * **Problem Statement 2** - **Regional Sales Performance Analysis**
 
 * Sales performance is concentrated in a few states, with **Wisconsin (₹351,337)** leading sales generation, followed by **Missouri (₹340,676)**, **Georgia (₹338,915)**, **Iowa (₹332,732)**, and **Washington (₹330,640).**
