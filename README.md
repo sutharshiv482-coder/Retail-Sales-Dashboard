@@ -37,7 +37,7 @@ An interactive Power BI dashboard designed to analyze sales, profit, and custome
 - These states represent key revenue markets and should be prioritized for customer retention, inventory planning, and marketing campaigns.
 
 ### Customer Segment Value Assessment
-- The most valuable customer segment is the one contributing the highest share of both sales and profit.
+- The most valuable customer segment is the one contributing the highest share of revenue.
 - Further analysis of the top 5 customers can help identify purchasing patterns and opportunities for loyalty programs, personalized promotions, and long-term retention strategies.
 
 ### Temporal Profit Decline Identification
