@@ -23,7 +23,11 @@ An interactive Power BI dashboard designed to analyze sales, profit, and custome
 * **SQL** – Data querying and analysis
 * **Power BI** – Data visualization and dashboard development
 ---
+## Dashboard Preview
 
+
+
+---
 ## Key Insights
 ### Product Category Performance Analysis
 - Electronics is the best-performing product category, contributing **38.58% of total sales** and **38.86% of total profit.** This indicates strong customer demand and healthy profitability, making Electronics the primary revenue driver for the business.
@@ -46,12 +50,6 @@ An interactive Power BI dashboard designed to analyze sales, profit, and custome
 
 
 ---
-
-## Dashboard Screenshots
-
-
----
-
 ## Dataset Source
 
 
