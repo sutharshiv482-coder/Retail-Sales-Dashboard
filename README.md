@@ -10,6 +10,20 @@ An interactive Power BI dashboard designed to analyze sales, profit, and custome
 
 ---
 
+## Business Problems Addressed
+- Identify the product categories that contribute the most to sales and profit.
+- Determine the highest-performing state based on sales generation.
+- Analyze customer segments to identify the most valuable customers.
+- Evaluate yearly profit trends and identify months with the lowest profitability.
+---
+
+## Tools Used
+
+* **Microsoft Excel** – Data cleaning and preparation
+* **SQL** – Data querying and analysis
+* **Power BI** – Data visualization and dashboard development
+---
+
 ## Key Insights
 ### Product Category Performance Analysis
 - Electronics is the best-performing product category, contributing **38.58% of total sales** and **38.86% of total profit.** This indicates strong customer demand and healthy profitability, making Electronics the primary revenue driver for the business.
@@ -29,17 +43,6 @@ An interactive Power BI dashboard designed to analyze sales, profit, and custome
 - **2022**: Profitability remained relatively stable, with **February (19.43%)** being the lowest month.
 - **2023**: **January (19.89%)** recorded the lowest profit margin.
 - **2024**: **April (20.25%)** generated the lowest profit margin.
----
-
-## Tools Used
-
-* **Microsoft Excel** – Data cleaning and preparation
-* **SQL** – Data querying and analysis
-* **Power BI** – Data visualization and dashboard development
----
-
-## Key Findings
-
 
 
 ---
