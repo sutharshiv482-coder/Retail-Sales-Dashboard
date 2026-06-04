@@ -1,9 +1,5 @@
 # 📊 Retail Sales Dashboard
 
-## Project Title
-
-**Retail Sales Dashboard**
-
 ### Description
 
 An interactive Power BI dashboard designed to analyze sales, profit, and customer trends across different product categories, regions, and states.
