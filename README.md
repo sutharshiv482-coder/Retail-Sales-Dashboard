@@ -54,7 +54,6 @@ An interactive Power BI dashboard designed to analyze sales, profit, and custome
 
 ## 📊 Dashboard Preview
 
-<img width="3072" height="1823" alt="Power BI Desktop 04-06-2026 13_34_57" src="https://github.com/user-attachments/assets/3bdf9aac-1fc3-4c58-b3af-f42cc3a660f7" />
 
 
 ---
