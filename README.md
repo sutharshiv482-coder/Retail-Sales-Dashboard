@@ -20,8 +20,8 @@ An interactive Power BI dashboard designed to analyze sales, profit, and custome
 * **Power BI** – Data visualization and dashboard development
 ---
 ## 📂 Dataset Source
-Dataset obtained from: **Kaggle**
-**Example:** Retail Sales Dataset (Kaggle)
+- Dataset obtained from: **Kaggle**
+- **Example:** Retail Sales Dataset (Kaggle)
 ---
 
 ## 📈 Key Findings
