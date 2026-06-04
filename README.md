@@ -28,7 +28,7 @@ An interactive Power BI dashboard designed to analyze sales, profit, and custome
 
 
 ---
-## Key Insights
+## Key Findings
 ### Product Category Performance Analysis
 - Electronics is the best-performing product category, contributing **38.58% of total sales** and **38.86% of total profit.** This indicates strong customer demand and healthy profitability, making Electronics the primary revenue driver for the business.
 
@@ -48,7 +48,12 @@ An interactive Power BI dashboard designed to analyze sales, profit, and custome
 - **2023**: **January (19.89%)** recorded the lowest profit margin.
 - **2024**: **April (20.25%)** generated the lowest profit margin.
 
+---
 
+## Business Insights
+- Electronics is the most profitable product category.
+- Certain states contribute significantly more revenue than others.
+- Regional sales patterns can help optimize marketing and inventory planning.
 ---
 ## Dataset Source
 
