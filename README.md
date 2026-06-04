@@ -67,5 +67,5 @@ This dashboard provides valuable insights into sales, profit, and regional perfo
 
 **Shiv Suthar**
 
-LinkedIn: *(Optional)*
-GitHub: *(Optional)*
+- LinkedIn: *(Optional)*
+- GitHub: *(Optional)*
