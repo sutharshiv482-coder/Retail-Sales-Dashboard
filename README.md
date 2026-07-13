@@ -68,6 +68,3 @@ This dashboard provides valuable insights into sales, profit, and regional perfo
 ### 👨‍💻 Author
 
 **Shiv Suthar**
-
-- LinkedIn: *(https://www.linkedin.com/in/shiv-suthar-06777a344/)*
-- GitHub: *(https://github.com/sutharshiv482-coder?tab=repositories)*
