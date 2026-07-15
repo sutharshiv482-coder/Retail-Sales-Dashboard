@@ -53,9 +53,16 @@ An interactive Power BI dashboard designed to analyze sales, profit, and custome
 ---
 
 ## 📊 Dashboard Preview
-<img width="3072" height="1823" alt="Power BI Desktop 04-06-2026 13_34_57" src="https://github.com/user-attachments/assets/f8f5d209-587f-48e6-80e8-4974356033d5" />
-
-
+(<img width="3072" height="1823" alt="Power BI Desktop 04-06-2026 13_34_57" src="https://github.com/user-attachments/assets/f8f5d209-587f-48e6-80e8-4974356033d5" />)
+## 📊 Key Visuals
+- KPI Cards – Total Sales, Total Profit, Profit Margin (%), and Total Orders.
+- Year Slicer – Interactive filter for analyzing data from 2021–2024.
+- Sales & Profit Trend – Line chart showing monthly sales and profit performance.
+- Sales by Category – Horizontal bar chart comparing sales across product categories.
+- Sales by State – Map visual displaying geographical sales distribution.
+- Sales by Region – Pie chart illustrating regional sales contribution.
+- Revenue by Customer – Funnel chart highlighting top revenue-generating customers.
+- Profit by Customer Segment – Donut chart comparing profit across customer segments.
 
 ---
 ## 💡 Recommendations
