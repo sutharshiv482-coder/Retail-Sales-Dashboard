@@ -68,7 +68,7 @@ Build an interactive dashboard that enables businesses to track key sales metric
 
 # 📈 Business Impact
 
-Focusing on top-selling products, high-performing states, valuable customers, and improving low-profit months can increase sales, improve profitability, strengthen customer loyalty, and support long-term business growth.
+> Focusing on top-selling products, high-performing states, valuable customers, and improving low-profit months can increase sales, improve profitability, strengthen customer loyalty, and support long-term business growth.
 -- 
 
 ## 🚀 Conclusion
