@@ -72,7 +72,9 @@ Build an interactive dashboard that enables businesses to track key sales metric
 -- 
 
 ## 🚀 Conclusion
+
 The analysis shows that **Electronics**, **top-performing states**, and **high-value customers** are the main drivers of business success. By focusing on these strengths and **improving performance during low-profit months**, the business can increase revenue, maximize profit, and achieve sustainable long-term growth.
+
 ---
 
 # 👨‍💻 Author
