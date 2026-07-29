@@ -48,7 +48,7 @@ Build an interactive dashboard that enables businesses to track key sales metric
 ---
 
 ## 📊 Dashboard Preview
-(<img width="3072" height="1823" alt="Power BI Desktop 04-06-2026 13_34_57" src="https://github.com/user-attachments/assets/f8f5d209-587f-48e6-80e8-4974356033d5" />)
+![Retail Sales Dashboard](<img width="3072" height="1823" alt="Power BI Desktop 04-06-2026 13_34_57" src="https://github.com/user-attachments/assets/f8f5d209-587f-48e6-80e8-4974356033d5" />)
 ## 📊 Key Visuals
 # ⚙️ Dashboard Features
 
