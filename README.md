@@ -137,8 +137,7 @@ Strategic Recommendations
 ---
 
 ## 📊 Dashboard Preview
-![Retail Sales Dashboard](<img width="3072" height="1823" alt="Power BI Desktop 04-06-2026 13_34_57" src="https://github.com/user-attachments/assets/04947828-1fd6-4eeb-95a9-bd3edb733e6b" />
-)
+![Retail Sales Dashboard](https://github.com/sutharshiv482-coder/Retail-Sales-Dashboard/blob/main/Power%20BI%20Desktop%2004-06-2026%2013_34_57.png)
 
 ---
 
