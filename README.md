@@ -1,21 +1,33 @@
 # 📊 Retail Sales Dashboard
 
-An interactive **Power BI dashboard** designed to analyze **sales, profit, customer behavior, and regional performance** across multiple product categories and states. The dashboard transforms raw retail data into actionable insights, helping businesses monitor performance, identify growth opportunities, and make data-driven decisions.
+An interactive **Power BI dashboard** built to analyze **sales performance, profitability, customer behavior, and regional trends**. This project transforms raw retail data into actionable business insights, enabling stakeholders to monitor KPIs, identify growth opportunities, optimize business performance, and support data-driven decision-making.
 
 ---
+
 # 🎯 Project Objective
 
-Build an interactive dashboard that enables businesses to track key sales metrics, evaluate product and regional performance, identify valuable customers, and support strategic business decisions through data analysis.
+Develop an end-to-end business intelligence solution that enables decision-makers to:
+
+- Monitor overall business performance using key performance indicators (KPIs).
+- Identify the products and regions driving revenue and profitability.
+- Understand customer purchasing behavior and high-value customer segments.
+- Analyze monthly and yearly profit trends.
+- Support strategic decisions using interactive data visualization.
 
 ---
 
-## 📌 Business Problems Addressed
-- Identify the product categories that contribute the most to sales and profit?
-- Determine the highest-performing state based on sales generation?
-- Analyze customer segments to identify the most valuable customers?
-- Evaluate yearly profit trends and identify months with the lowest profitability?
+# 📌 Business Questions
+
+- Which product categories generate the highest sales and profit?
+- Which states contribute the most to overall revenue?
+- Which customer segments drive the highest business value?
+- How do sales and profit change over time?
+- Which months require profitability improvement?
+- What business actions can improve revenue and profit?
+
 ---
-# 📌 Business KPIs
+
+# 📊 Key Performance Indicators (KPIs)
 
 - 💰 Total Sales
 - 💵 Total Profit
@@ -23,62 +35,174 @@ Build an interactive dashboard that enables businesses to track key sales metric
 - 📦 Total Orders
 
 ---
-# 🛠️ Tools Used
+
+# 🛠️ Technology Stack
 
 | Tool | Purpose |
 |------|----------|
-| Microsoft Excel | Data cleaning and preparation |
-| SQL | Data querying and business analysis |
-| Power BI | Dashboard development and visualization |
+| Microsoft Excel | Data cleaning and preprocessing |
+| SQL | Business analysis and KPI calculation |
+| Power BI | Interactive dashboard development |
+| DAX | KPI and measure creation |
+| GitHub | Project documentation and version control |
 
-# 📂 Dataset Source
+---
+# 📂 Dataset
 
-- **Source:** Kaggle
-- **Dataset:** Retail Sales Dataset
+**Source:** Kaggle
+
+### Dataset Overview
+
+- 5,000+ Retail Transactions
+- 8 States
+- 5 Product Categories
+- Multiple Customer Segments
+- Multi-Year Sales Data (2021–2024)
 
 ---
 
-## 📈 Key Findings
-- **Electronics** is the best-performing product category, contributing **38.58% of total sales** and **38.86% of total profit**. Its high sales and profit show strong customer demand, making it the main driver of business growth and a priority for future investment.
-- **Wisconsin** generated the highest sales **(20.74%)**, followed by **Missouri (20.11%)** and **Georgia (20.00%)**. Since these three states contribute a large share of total sales, **focusing marketing**, **customer retention**, and **inventory** in these markets can help increase revenue and business growth.
-- The highest-value customer segment contributes the largest share of revenue. Analyzing the **top 5 customers** can reveal buying patterns and help create loyalty programs and personalized offers to increase customer retention and long-term revenue.
-- **Profit margins** changed across different months each year. The **lowest-profit months** were **May (19.09%)** in **2021**, **February (19.43%)** in **2022**, **January (19.89%)** in **2023**, and **April (20.25%)** in **2024**. These months may need **better pricing, promotions, or cost control to improve profitability**.
+# 🧹 Data Preparation
 
+The dataset was cleaned and validated before analysis to ensure accurate reporting.
+
+### Data Cleaning Activities
+
+- Removed duplicate records
+- Handled missing values
+- Standardized categorical values
+- Corrected inconsistent formatting
+- Converted data types
+- Validated numerical fields
+- Prepared analytical dataset for SQL and Power BI
+
+---
+
+# 🗄️ SQL Business Analysis
+
+SQL was used to answer key business questions and generate analytical insights.
+
+### Business Analysis Performed
+
+- Product-wise Sales Analysis
+- Product-wise Profit Analysis
+- State-wise Sales Performance
+- Monthly Profit Trend Analysis
+- Customer Revenue Analysis
+- Profit Margin Calculation
+- KPI Validation
+
+---
+
+# 🔄 Project Workflow
+
+```
+Raw Dataset
+      │
+      ▼
+Data Cleaning (Excel)
+      │
+      ▼
+Business Analysis (SQL)
+      │
+      ▼
+Dashboard Development (Power BI)
+      │
+      ▼
+Business Insights
+      │
+      ▼
+Strategic Recommendations
+```
+
+---
+
+# 📈 Key Business Insights
+
+### 📦 Product Performance
+
+- **Electronics** is the best-performing product category, contributing **38.58% of total sales** and **38.86% of total profit**. Its high sales and profit show strong customer demand, making it the main driver of business growth and a priority for future investment.
+
+### 🌍 Regional Performance
+
+- **Wisconsin** generated the highest sales **(20.74%)**, followed by **Missouri (20.11%)** and **Georgia (20.00%)**. Since these three states contribute a large share of total sales, **focusing marketing**, **customer retention**, and **inventory** in these markets can help increase revenue and business growth.
+
+### 👥 Customer Analysis
+
+- The highest-value customer segment contributes the largest share of revenue. Analyzing the **top 5 customers** can reveal buying patterns and help create loyalty programs and personalized offers to increase customer retention and long-term revenue.
+
+### 📈 Profitability Trend
+
+- **Profit margins** changed across different months each year. The **lowest-profit months** were **May (19.09%)** in **2021**, **February (19.43%)** in **2022**, **January (19.89%)** in **2023**, and **April (20.25%)** in **2024**. These months may need **better pricing, promotions, or cost control to improve profitability**.
 
 ---
 
 ## 📊 Dashboard Preview
-![Retail Sales Dashboard](<img width="3072" height="1823" alt="Power BI Desktop 04-06-2026 13_34_57" src="https://github.com/user-attachments/assets/f8f5d209-587f-48e6-80e8-4974356033d5" />)
-## 📊 Key Visuals
-# ⚙️ Dashboard Features
-
-- KPI Cards (Total Sales, Profit, Profit Margin, Orders)
-- Year-wise Slicer
-- Monthly Sales & Profit Trend
-- Sales by Product Category
-- State-wise Sales Map
-- Regional Sales Distribution
-- Revenue by Customer
-- Profit by Customer Segment
+![Retail Sales Dashboard](<img width="3072" height="1823" alt="Power BI Desktop 04-06-2026 13_34_57" src="https://github.com/user-attachments/assets/04947828-1fd6-4eeb-95a9-bd3edb733e6b" />
+)
 
 ---
-## 💡Business Recommendation
-- Increase investment in the **Electronics category**, **strengthen marketing in top-performing states**, focus on retaining **high-value customers through loyalty programs**, and **improve pricing** and **cost management during low-profit months** to drive higher sales, profit, and long-term business growth.
 
+# 📊 Dashboard Features
+
+- Executive KPI Cards
+- Interactive Year Filter
+- Monthly Sales & Profit Trend
+- Product Category Performance
+- State-wise Sales Analysis
+- Regional Sales Distribution
+- Customer Revenue Analysis
+- Profit by Customer Segment
+- Interactive Cross-filtering
+
+---
+
+# 💡 Business Recommendations
+
+Based on the analysis, the following actions are recommended:
+
+- Increase investment in the Electronics category to maximize revenue growth.
+- Prioritize marketing campaigns in Wisconsin, Missouri, and Georgia.
+- Strengthen customer loyalty programs for high-value customers.
+- Review pricing strategies during low-profit months.
+- Optimize operational costs to improve overall profit margins.
+- Use dashboard KPIs to continuously monitor business performance.
+
+---
 
 # 📈 Business Impact
 
-> Focusing on top-selling products, high-performing states, valuable customers, and improving low-profit months can increase sales, improve profitability, strengthen customer loyalty, and support long-term business growth.
--- 
+The dashboard enables business stakeholders to:
 
-## 🚀 Conclusion
+- Monitor business performance in real time.
+- Identify top-performing products and regions.
+- Improve strategic decision-making through data.
+- Increase customer retention using behavioral insights.
+- Optimize pricing and profitability.
+- Support long-term business growth through KPI-driven analysis.
 
-The analysis shows that **Electronics**, **top-performing states**, and **high-value customers** are the main drivers of business success. By focusing on these strengths and **improving performance during low-profit months**, the business can increase revenue, maximize profit, and achieve sustainable long-term growth.
+---
+
+# 🧠 Skills Demonstrated
+
+- Data Cleaning
+- SQL
+- Power BI
+- DAX
+- Data Visualization
+- Dashboard Design
+- Business Analysis
+- KPI Development
+- Data Storytelling
+- Decision Support Analytics
+
+---
+
+# 🚀 Conclusion
+
+This project demonstrates an end-to-end business intelligence workflow, beginning with data preparation and SQL-based analysis, followed by interactive dashboard development in Power BI. The dashboard provides executives with actionable insights into sales performance, profitability, customer behavior, and regional trends, enabling informed strategic decisions and continuous business performance monitoring.
 
 ---
 
 # 👨‍💻 Author
 
 **Shiv Suthar**
-
-
