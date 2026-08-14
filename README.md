@@ -137,8 +137,7 @@ Strategic Recommendations
 ---
 
 ## 📊 Dashboard Preview
-![Retail Sales Dashboard](![Uploading Power BI Desktop 04-06-2026 13_34_57.png…]()
-)
+(![Uploading Power BI Desktop 04-06-2026 13_34_57.png…]())
 
 ---
 
