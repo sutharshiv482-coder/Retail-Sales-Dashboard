@@ -138,7 +138,7 @@ Strategic Recommendations
 
 ## 📊 Dashboard Preview
 
-![Retail Sales Dashboard](![[Uploading Power BI Desktop 04-06-2026 13_34_57.png…](https://github.com/sutharshiv482-coder/Retail-Sales-Dashboard/blob/main/Power%20BI%20Desktop%2004-06-2026%2013_34_57.png)]() )
+![Retail Sales Dashboard](https://github.com/sutharshiv482-coder/Retail-Sales-Dashboard/blob/main/Power%20BI%20Desktop%2004-06-2026%2013_34_57.png)
 
 ---
 
