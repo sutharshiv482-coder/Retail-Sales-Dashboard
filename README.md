@@ -1,4 +1,4 @@
-````markdown
+
 # 🛒 Retail Sales Analytics Dashboard
 
 An interactive **Retail Sales Analytics Dashboard** built with **SQL, Power BI, and DAX** to analyze sales performance, profitability, customer value, product categories, and regional trends.
